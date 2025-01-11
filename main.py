@@ -13,7 +13,6 @@ def scrape():
         "accept": "application/json, text/plain, */*",
         "origin": "https://learning.dnc.group",
         "referer": "https://learning.dnc.group/",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     }
 
     courses = requests.get(url=url, headers=headers).json()

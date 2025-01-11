@@ -1,4 +1,4 @@
-# Web Scraping de Conteúdo de Curso
+# DNC Course Scraper
 
 ![video_dnc](https://github.com/user-attachments/assets/640150d7-8515-42f2-88a8-75fab37716e6)
 
